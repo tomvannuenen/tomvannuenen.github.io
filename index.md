@@ -1,4 +1,4 @@
-## Hi! I'm Tom.
+## Hi!
 
 I am a researcher and lecturer in cultural analytics and accountable data science. I apply mixed methods to solve social, ethical, and development questions related to ML, AI, and algorithmic culture. I am passionate about the impact of datafication on society, particularly in the context of fairness and discrimination.
 
