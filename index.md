@@ -1,17 +1,18 @@
 ## Hello, I'm Tom.
 
-I am a researcher and lecturer in cultural analytics and accountable data science. I apply mixed methods to solve social, ethical, and development questions related to ML, AI, and algorithmic culture. I am passionate about the impact of datafication on society, particularly in the context of fairness and discrimination.
-
-Recent research projects include a Research Associate position in the [Discovering and Attesting Digital Discrimination](https://dadd-project.github.io/) project at King’s College London (2019-2022) and a researcher-in-residence position for the UK’s [National Research Centre on Privacy, Harm Reduction and Adversarial Influence Online](http://rephrain.ac.uk) (2022). My research focuses on Natural Language Processing methods to investigate language biases, investigating perceptions of unfair treatment by AI systems, and running workshops on linguistic biases in ML systems.
+I am a researcher and lecturer in the computational humanities. I apply mixed methods to solve social, ethical, and development questions related to ML, AI, and algorithmic culture. I am passionate about the impact of datafication on society, particularly in the context of norms and practices in everyday life.
 
 I am currently working as a Project Scientist and Lecturer at UC Berkeley's [Social Science Data Lab](https://dlab.berkeley.edu/home), developing workshops and teaching courses on computational social science in Python and R. As an educator, I have onboarded and coached learners from non-technical backgrounds into data science through courses and workshops across the world, including in Shanghai, Copenhagen, and Sydney.
 
-My Ph.D. was on contemporary ideologies surrounding leisurely travel, and their recalibration through digital technology. My [book](https://www.degruyter.com/document/doi/10.1515/9783110700497/html?lang=en) on hypermediated tourism and the construction of authenticity was published by De Gruyter in 2021.
+PRevious research projects include a Research Associate position in the [Discovering and Attesting Digital Discrimination](https://dadd-project.github.io/) project at King’s College London (2019-2022) and a researcher-in-residence position for the UK’s [National Research Centre on Privacy, Harm Reduction and Adversarial Influence Online](http://rephrain.ac.uk) (2022). My research focuses on Natural Language Processing methods to investigate language biases, investigating perceptions of unfair treatment by AI systems, and running workshops on linguistic biases in ML systems.
+
+My Ph.D. was on contemporary ideologies surrounding leisurely travel, and their recalibration through digital technology. My first book, [Scripted Journeys](https://www.degruyter.com/document/doi/10.1515/9783110700497/html?lang=en), on hypermediated tourism and the construction of authenticity, was published by De Gruyter in 2021. My second book, [Traveling Through Video Games](https://www.routledge.com/Traveling-through-Video-Games/vanNuenen/p/book/9781032519500?srsltid=AfmBOoquQqJ5DLtwAhMaGtC3yjdMapsStB_WdFZXZKDRQFu44A1a1lDi), on the influence of the promotional language of tourism on video game design, was published in 2023.
 
 
 # Selected work
 
-### Fairness and Bias in AI
+### Norms and Biases in AI
+- [Normative Evaluation of Large Language Models with Everyday Moral Dilemmas](https://dl.acm.org/doi/10.1145/3715275.3732044)
 - [Intersectional Experiences of Unfair Treatment Caused by Automated Computational Systems](https://www.researchgate.net/publication/360932129_Intersectional_Experiences_of_Unfair_Treatment_Caused_by_Automated_Computational_Systems)
 - [Discovering and Interpreting Biased Concepts in Online Communities](https://arxiv.org/abs/2010.14448)
 - [Discovering and Categorising Language Biases in Reddit](https://arxiv.org/abs/2008.02754)
