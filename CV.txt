@@ -1,0 +1,212 @@
+TOM VAN NUENEN
+Curriculum Vitae
+Social Sciences Data Lab
+University of California, Berkeley
+510 365 9198 | tomvannuenen@berkeley.edu
+Social Sciences Data Lab
+University of California, Berkeley
+510 365 9198 | tomvannuenen@berkeley.edu
+
+
+
+
+
+ACADEMIC APPOINTMENTS
+Lecturer in Advanced Computing, Master of Computational Social Science, University of California at Berkeley, USA (2025–present)
+Assistant Project Scientist, Social Sciences Data Lab, University of California at Berkeley, USA (2022–present)
+Lecturer in Digital Humanities, University of California at Berkeley, USA (2018–present)
+Lecturer in Computational Social Sciences, Department of Sociology, University of California at Berkeley, USA (2022–2023)
+Research Associate in Digital Discrimination, Department of Informatics, King’s College London, England (2019–2022)
+Invited Visiting Scholar, University of Shandong, China (2019)
+Lecturer, Department of Digital Humanities, King’s College London, England (2019–2022)
+Teaching Fellow in Digital Media and Culture, Department of Digital Humanities, King’s College London, England (2018–2019)
+Visiting Scholar, Department of Information Studies, University of Copenhagen, Denmark (2019)
+Assistant Professor in Online Culture, Tilburg University, the Netherlands (2017–2018)
+Visiting Scholar, Intercultural Institute, Shanghai International Studies University, China (2017)
+ EDUCATION
+PhD, Culture Studies, Tilburg University, the Netherlands (2016)
+MA cum laude, Culture Studies, Tilburg University, the Netherlands (2011)
+BA with honors, Culture Studies, Tilburg University, the Netherlands (2009)
+
+RESEARCH GRANTS & CONTRACTS
+Research Leadership
+2022 – Researcher-in-Residence
+	•	National Research Centre on Privacy, Harm Reduction and Adversarial Influence Online, King’s College London (UKRI Funded)
+	•	Led a project investigating intersectional discrimination in automated systems, developing a novel conceptual framework based on interviews and survey data.
+Research Associate 
+2021 – Research Associate
+	•	“After Third-Party Cookies – Consumer Consent and Data Autonomy in the Globalised AdTech Industry” (Information Commissioners Office, UK). PI: Perry Keller
+	•	Investigated transformations in global AdTech markets (US & China), examining implications for UK regulatory frameworks. 
+ 2019–2022 – Research Associate
+	•	“Discovering and Attesting Digital Discrimination” (EPSRC), King’s College London. PI: Jose Such
+	•	Cross-disciplinary collaboration in algorithmic bias and discrimination research, working with academics (CS, DH, Law & Ethics) and industry partners (Google, AI Club). 
+	•	Developed interactive tools to surface language biases in AI systems – see: xfold.github.io/Web-DiscoveringAndInterpretingConceptualBiases.
+	•	Published 5 papers on AI bias and discrimination in leading journals (e.g. IEEE Transactions on Knowledge and Data Engineering, ACM CSCW)
+Visiting Scholarships and Travel Grants
+2025 – L&S Professional Development Award
+UC Berkeley, College of Letters & Science
+	•	Travel grant to present paper “Normative Evaluation of Large Language Models with Everyday Moral Dilemmas” at ACM FaCCT 2025, June 2025, Athens, Greece.
+2021 – Visiting Scholarship
+Shanghai International Studies University (Ministry of Science and Technology, China Funded)
+	•	Taught workshops on digital humanities and corpus linguistics in the project “Developing Intercultural Competence in Foreign Language Education” (50 students).
+2019 – Invited Visiting Scholarship
+Shandong University, Jinan (China)
+	•	Taught a six-week course at the School of Journalism and Communication (100+ students).
+	•	Provided mentorship for internationally oriented graduate students.
+2018 – Visiting Scholarship
+University of Copenhagen (Erasmus+ Teaching Grant, Denmark)
+	•	Designed and delivered two four-week courses on Discourse analysis on social media and digital humanities research methods (30 students).
+2017 – Visiting Scholarship
+Shanghai International Studies University (Erasmus Staff Training Mobility Grant, China)
+	•	Taught a six-week course on hermeneutics in the age of big data (20 students).
+	•	Provided student mentorship and faculty training on cultural analytics.
+2015 – Visiting Scholarship 
+Western Sydney University (Prince Bernhard Culture Foundation Grant, Australia)
+	•	Designed a computational text analysis tool using NLTK in Python for dissertation research.
+	•	Co-authored an article on digital travel media and computational methods.
+ PUBLICATIONS
+Monographs
+	•	Van Nuenen, T. (2023). Traveling Through Video Games. London: Routledge.
+	•	Van Nuenen, T. (2021). Scripted Journeys: The Pursuit of Authenticity in Hypermediated Tourism. Berlin: De Gruyter.
+Refereed Journal Articles
+	•	Lehman, B., and Van Nuenen, T. (2025). Infrastructural Fragility in European Digital Scholarship. GlobalEurope 1(25), globaleuropejournal.org/2025/10/infrastructural-fragility-in-european-digital-scholarship
+	•	Ferrer Aran, X., Van Nuenen, T., Criado, N., and J. Such (2021). Discovering and Interpreting Biased Concepts in Online Communities. IEEE Transactions on Knowledge and Data Engineering.
+	•	Van de Ven, I., and T. van Nuenen (2021). Digital Hermeneutics: Scaled Readings of Online Depression Discourses. Medical Humanities Oct 14:medhum-2020-012104. doi: 10.1136/medhum-2020-012104. 
+	•	Ferrer-Aran, X., Van Nuenen, T., Such, J. M., Coté, M., and N. Criado Pacheco (2021). Bias and Discrimination in AI: a cross-disciplinary perspective. IEEE Technology and Society Magazine 40(2). 
+	•	Van Nuenen, T., and C. Scarles (2021). Advancements in Technology and Digital Media in Tourism. Tourist Studies 21(1), pp. 119–132. doi:10.1177/1468797621990410.
+	•	Vacano, C. Von, Muzzall, E., Anderson, A. G., Reeve, J., and T. van Nuenen (2020). Building STEAM for DH and Electronic Literature : An Educational Approach to Nurturing the STEAM Mindset in Higher Education. Electronic Book Review, 1–23. https://doi.org/10.7273/y68f-7313
+	•	Van Nuenen, T., Ferrer-Aran, X., Such, J., and M. Coté (2020). Transparency for whom? Explaining discriminatory AI. Computer Magazine 11, pp. 36−44.
+	•	Van Nuenen, T. (2019). Algorithmic authenticity: Sociotechnical Authentication Processes on Online Travel Platforms. Tourist Studies 19(3). doi: 10.1177/1468797619832314. 
+	•	Van Nuenen, T. (2017). Touring the Animus: Assassin’s Creed and Ludotopical Movement. Loading… 10(17). 
+	•	Van Nuenen, T. (2016). Procedural (E)motion: Journey as Emerging Pilgrimage. The Journal of Popular Culture 49(3), pp. 466−491. doi: 10.1111/jpcu.12417.
+	•	Van Nuenen, T., and S. van der Beek (2016). Tourist or Pilgrim? Modelling Two Types of Travel Bloggers. Heidelberg Journal of Religions on the Internet (11). doi: 10.17885/heiup.rel.2016.0.23631 
+	•	Van Nuenen, T. (2016). Playing the Panopticon: Procedural Punishment in Dark Souls. Games and Culture 11(5), 510-527. doi:10.1177/1555412015570967. 
+	•	Van Nuenen, T. (2016). The Production of Locality on Peer-to-peer Platforms. Cogent Social Sciences, 1, pp. 1–16. doi: 10.1080/23311886.2016.1215780. 
+	•	Van Nuenen, T. (2015). Here I am: Authenticity and Self-branding on Travel Blogs. Tourist Studies 16(2), pp. 192−212. doi:10.1177/1468797615594748.
+Book Chapters
+	•	Mutsaers, P., and T. van Nuenen (2023). Predictively policed: The Dutch CAS case and its forerunners. Policing Race, Ethnicity and Culture: Ethnographic Perspectives Across Europe. Manchester: Manchester University Press.
+	•	Van Nuenen, T. (2022). Video Games as Travel Writing. In Barbara Korte and Anna Karina Sennefelder Travel, Writing and the Media: Contemporary and Historical Perspectives. London: Routledge.
+	•	Arthur, P.L., and T. van Nuenen (2018). “Travel in the Digital Age.” In Nandini Das and T. Youngs (eds.), The Cambridge History of Travel Writing. Cambridge: Cambridge University Press, pp. 504-518.
+	•	Van Nuenen, T. (2018). Text Research on Online Platforms: Heuristic Steps. In Jenna Condie and C. Costa (eds.), Doing research in and on the digital: Research methods across fields of inquiry. London: Routledge, pp. 81-101.
+	•	Mutsaers, P., and T. van Nuenen (2018). Protesting Police. In Kevin Karpiak and W. Garriott (eds.), The Anthropology of Police. London: Routledge, pp. 153-171.
+	•	Van de Ven, I., and T. Van Nuenen (2018). Revaluing the Earth through the Book-Bound Novel. In Michael Steppat (ed.), Literature and Interculturality II: Values, Identifications, Dialogues. Intercultural Research series Vol. 9. Shanghai Foreign Language Education Press.
+	•	Van Nuenen, T., and I. van de Ven (2017).  “Dialogical Hermeneutics as an Alternative Model for Literary Imagination. A Critique of Ethical Criticism.” In Michael Steppat (ed.), Literature and Interculturality. Shanghai Foreign Language Education Press.
+	•	Van Nuenen, T., and I. van de Ven (2017). “Teaching Dialogical Hermeneutics in a Transcultural Setting: The Case of Disneyland Shanghai.” In Steve Kulich (ed.), Applying Past Perspectives, Addressing Present Problems: Roots, Relevance, Roles. China International/Intercultural Communication Annual (CICA), 2nd vol. Shanghai International Studies Press.
+	•	Varis, P., and T. van Nuenen (2017). The Internet, Language and Virtual Interactions. In Ofelia García, N. Flores, and M. Spotti (eds.) Oxford Handbook of Language and Society. New York: Oxford University Press, pp. 473-488. 
+	•	Van Nuenen, T., and P. Varis (2017). There is no I in team: The Co-construction of Expertise on the Nomadic Matt Travel Blog. In Sirpa Leppänen, S. Kytola, and E. Westinen (eds.), Discourse and identification: Diversity and heterogeneity in social media practices. London: Routledge, pp. 125-149.
+	•	Heynders, O.M., and T. van Nuenen (2014). Tourist Imagination and Modernist Poetics: The Case of Cees Nooteboom. In Garth Lean, R. Staiff, & E. Waterton (Eds.), Travel and Imagination. London: Ashgate, pp. 103-118.
+Conference Proceedings 
+	•	Sachdeva, P., and T. van Nuenen (2025). Conformity, Inertia, and Value Alignment in Multi-Turn LLM Deliberation. First Workshop on Multi-Turn Interactions in Large Language Models, NeurIPS 2025. https://arxiv.org/abs/2510.10002 
+	•	Sachdeva, P., and T. van Nuenen (2025). Normative Evaluation of Large Language Models with Everyday Moral Dilemmas. FAccT ‘25: Proceedings of the 2025 ACM Conference on Fairness, Accountability, and Transparency. https://arxiv.org/abs/2501.18081 
+	•	Van Nuenen, T., Such, J., and M. Cote (2022). Intersectional Experiences of Unfair Treatment Caused by Automated Computational Systems. The 25th ACM Conference On Computer-Supported Cooperative Work And Social Computing (CSCW). https://doi.org/10.1145/3555546
+	•	Ferrer-Aran, X., Van Nuenen, T., Such, J., and N. Criado (2021). Discovering Language Biases in Reddit. Fifteenth International AAAI Conference on Web and Social Media (ICWSM).
+	•	Ferrer-Aran, X., Van Nuenen, T., Criado, N., and J. Such (2020). Discovering and Interpreting Conceptual Biases in Online Communities. arXiv preprint:2010.14448.
+	•	Van de Ven, I., & T. van Nuenen (2020). Digital Hermeneutics and Media Literacy: Scaled Readings of The Red Pill. (Tilburg Papers in Culture Studies; No. 241). 
+	•	Roth, Christian, T. van Nuenen, and H. Koenitz (2018). Ludonarrative Hermeneutics: A Way Out and the Narrative Paradox. International Conference on Interactive Digital Storytelling, December 5–8, pp. 93–106. Cham: Springer International Publishing.
+	•	Van Nuenen, T., and I. van de Ven (2017). Digital Hermeneutics and “The Red Pill”: Myriad Shades of Grey. Literature and Linguistics Conference (L3), Singapore, 5-7 June. 
+INVITED LECTURES
+“Prompt Engineering for Legal Issues”, invited lecture at the Global Rights Innovation Lab Clinic, UC Berkeley, 29 October 2025.
+“Vibe Coding: A Primer”, invited talk at the AI Working Group, UC Berkeley, 20 September 2024. 
+“Teaching Bias through Word Embeddings”, invited public talk at the University of California, Berkeley, 16 May 2022. 
+“Digital Hermeneutics: Interpretation in Times of Big Data”, invited keynote at Tsinghua University, Beijing, 24 October 2020.
+“Using digital tools to study online discourse”, presented at the University of Shandong, Jinan, 29 November 2019.
+“What games can teach us about travel: a creativity approach”, presented at the Games Studies Seminar, IT University of Copenhagen. Copenhagen, 12 April 2018. 
+“The Hermeneutic Tradition in Online Culture”, presented at the Department of Information Studies, University of Copenhagen. Copenhagen, 9 April 2018.
+“The Linguistic Turn: Language, Meaning, Interpretation”, presented at the Department of Information Studies, University of Copenhagen. Copenhagen, 16 April 2018.
+ “Two American Novelists and the World: World-Making and Book Materiality.” Keynote, with Inge van de Ven. Presented at the Sixth International Conference on English and American Literature. Shanghai, 20-22 April 2017.
+“Digital Hermeneutics and The Red Pill”, presented at the Intercultural Institute of Shanghai International Studies University. Shanghai, 22 April 2017.
+“On algorithmic travel writing”, presented at the School of Humanities and Communication Arts of Western Sydney University. Sydney, 13 February, 2016.
+“How to scrape a travel blog”, presented at the Network for Digital Methods in the Arts and Humanities. Würzburg, 3 April, 2014. 
+
+TEACHING
+University of California, Berkeley
+Division of Arts and Humanities (2018–present)
+	•	Graduate Courses:
+	•	Digital Hermeneutics: Interpreting Big Social Data (GitHub)
+	•	Practicing the Digital Humanities (GitHub)
+	•	Data Science for Social Justice (GitHub)
+Department of Sociology (2022–2023)
+	•	Graduate Course:
+	•	Computational Social Sciences (GitHub)
+Social Science Division (2025-present)
+	•	Graduate Course:
+	•	Advanced Computing 1 (GitHub)
+Social Sciences Data Lab (2022–present)
+	•	Workshops:
+	•	Bash and Git (GitHub)
+	•	Data Science for Social Justice (GitHub)
+	•	LLMs for Exploratory Research (GitHub)
+	•	Python Data Visualization (GitHub)
+	•	Python Data Wrangling (GitHub)
+	•	Python Fundamentals (GitHub)
+	•	Python GPT Fundamentals (GitHub)
+	•	Python NLP Fundamentals (GitHub)
+	•	Python Geospatial Fundamentals (GitHub)
+	•	SQL Fundamentals (GitHub)
+King’s College London (2018–2022)
+	•	Graduate Courses:
+	•	Theorising Big Data
+	•	Big Data in Practice
+	•	User-Centred Research
+	•	Understanding Human-Computer Interaction Design
+	•	Crowds and Clouds - Digital Ecosystems
+	•	From Information to Knowledge
+	•	Undergraduate Courses:
+	•	Introduction to Programming
+	•	Introduction to Digital Asset and Media Management
+	•	Workshops:
+	•	Genders: Calling Out AI - Science Gallery London (URL)
+	•	Bias in Word Embeddings - Twitter (GitHub)
+Shanghai International Studies University (2017–2021)
+	•	Graduate Courses:
+	•	Digital Humanities: Textual and Language Analysis on Social Media
+	•	Hermeneutics in the Information Age
+University of Shandong (2019)
+	•	Graduate Course:
+	•	Digital Hermeneutics: Interpretation in an Age of Big Data
+University of Copenhagen (2018)
+	•	Graduate Course:
+	•	Knowledge Culture and Knowledge Critique
+	•	Undergraduate Course:
+	•	Knowledge Media
+Tilburg University (2014–2018)
+	•	Undergraduate Courses:
+	•	Doing Research: Methodology
+	•	Media, Globalization and Popular Culture
+	•	Reading and Writing in Online Culture
+	•	Graduate Courses:
+	•	Self-Fashioning, Life-Writing, Biography
+	•	Perspectives on Europe
+	•	Hermeneutic Research of Text and Images
+	•	Sociology of Culture
+
+CERTIFICATES
+2022 – Social and Behavioral Research Investigators, CITI program (USA)
+2022 – Social and Behavioral Responsible Conduct of Research, CITI program (USA)
+2018 – University Teaching Qualification (Netherlands)
+
+CONFERENCE PRESENTATIONS
+“Discovering gender bias and discrimination in language”, interactive workshop at the 12th International Conference on Social Informatics, 6 October 2020. 
+“Ludonarrative Hermeneutics: A Way Out and the Narrative Paradox”, presented at the International Conference on Interactive Digital Storytelling. Dublin, 5-8 December 2018. 
+“Understanding Creativity through Experiences of Ludic Travel”, presented at the American Comparative Literature Association. Los Angeles, 31 March 2018. 
+“ExTraVid: Exploring Travel in Videogames”, presented at the Digital Games Research Association. Melbourne, 6 July 2017. 
+“Tourist or pilgrim? Modeling two types of travel bloggers”, presented at Digital Humanities Benelux. Antwerp, 9 June 2015. 
+“Procedural (E)motion”, presented at BRAFFTV conference. Toronto, 24 November 2014. 
+“Writing places, writing selves: Authorship on travel blogs” (Awarded best in section), presented at the Midwest Popular Culture Association. Indianapolis, 5 October 2014. 
+“Here I am: Authenticity and identity in travel blogs”, presented at the International Auto/Biography Association Conference. Vienna, 31 October 2014. 
+“Nature in the modernist imaginary”, presented at the College of English Association. Savannah, 6 April 2013. 
+ORGANIZATION
+Working Group “Large Language Model Working Group”. Organized at UC Berkeley in Spring 2024, attracting 200+ participants. See https://dlab.berkeley.edu/events/llm-working-group-february-2024/2024-02-26. 
+Working Group “Digital Humanities Working Group”. Organized at UC Berkeley in Fall 2024, attracting 100+ participants. See https://dlab.berkeley.edu/events/digital-humanities-working-group-november-2024/2024-11-04. 
+Conference “Interpretation Today”. International conference with Espen Aarseth, Julie Orlemanski, Geert Lovink, Jan Blommaert, Kiene Brillenburg Wurth. Theater De Boemel, Tilburg, 8 May 2018, attracting 100+ participants. 
+Conference “International Consortium on Language and Superdiversity (InCoLAS)”. University of Copenhagen, 8 August 2016, attracting 40+ participants. 
+Symposium “Writers as public intellectuals”. Tilburg University, 2 June 2016, attracting 30+ participants. 
+
+
+MEMBERSHIPS & ANCILLARY ACTIVITIES
+Professional Memberships & Affiliations
+2024–Present – Member, Berkeley AI Community 2025–Present – Member, Coalition for Independent Technology Research 2022–Present – Member, Berkeley Digital Humanities Summer Minor Hiring Committee 2021–2022 – Affiliate, Humanities and Data Science Working Group, Alan Turing Institute 2018–Present – Member, European Association for Digital Humanities (EADH) 2018–2021 – Member, Digital Humanities Organisation of Southern Africa 2017–Present – Member, Digital Research Infrastructure for the Arts and Humanities (DARIAH) 2017–2019 – Member, Digital Games Research Association (DiGRA) 2015–Present – Member, Association of Internet Researchers (AoIR)
+Editorial & Leadership Roles
+2021–2022 – Manager, Social Media Coordinator, Tourist Studies 2020–Present – Editor, Editorial Board, Tourist Studies
+Peer Review & Conference Service
+2025–Present – Reviewer, IEEE Access 2025–Present – Reviewer, Health Communication 2024–Present – Reviewer, IEEE Transactions on Technology and Society 2024–Present – Reviewer, Tertiary Education Research Fund by the Ministry of Education, Singapore 2020–Present – Reviewer, Association for the Advancement of Artificial Intelligence (AAAI) 2020–Present – Reviewer, Information Systems Frontiers 2019–Present – Reviewer, Digital Humanities Quarterly (DHQ) 2016–Present – Reviewer, Annals of Tourism Research 2014–Present – Reviewer, Tourist Studies 2016–2018 – Reviewer, Critical Studies in Media Communication

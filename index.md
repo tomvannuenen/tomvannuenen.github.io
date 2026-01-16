@@ -3,17 +3,11 @@ layout: default
 title: Home
 ---
 
-# Tom van Nuenen
-
 ![Tom van Nuenen](assets/images/IMG_9676_sm.jpg)
-
-Project Scientist & Lecturer at UC Berkeley's [Social Science Data Lab](https://dlab.berkeley.edu/home)
 
 [Email](mailto:tomvannuenen@berkeley.edu) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=Bsq-uDoAAAAJ) | [GitHub](https://github.com/tomvannuenen) | [ORCID](https://orcid.org/0000-0002-8357-2316) | [LinkedIn](https://www.linkedin.com/in/tomvannuenen/)
 
 ---
-
-## About
 
 I am a researcher and lecturer in the computational humanities. I apply mixed methods to investigate social, ethical, and development questions related to ML, AI, and algorithmic culture. I am passionate about the impact of datafication on society, particularly in the context of norms and practices in everyday life.
 
