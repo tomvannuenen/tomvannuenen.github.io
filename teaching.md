@@ -3,7 +3,7 @@ layout: default
 title: Teaching
 ---
 
-I develop and teach computational social science courses and workshops, making data science accessible to researchers from non-technical backgrounds. I've taught across three continents—at UC Berkeley, King's College London, and universities in China, Denmark, and Australia.
+I develop and teach courses and workshops in Digital Humanities and computational social science, making data science accessible to researchers from non-technical backgrounds. I've taught across three continents: at UC Berkeley (USA), King's College London (UK), Tilburg University (NL), and universities in China, Denmark, and Australia.
 
 ## Courses
 
@@ -12,19 +12,20 @@ I develop and teach computational social science courses and workshops, making d
 - **Advanced Computing** — Master of Computational Social Science
 - **Computational Social Sciences** — Department of Sociology
 - **Digital Hermeneutics** — Arts & Humanities
-- **Practicing the Digital Humanities** — Arts & Humanities
+- **Python Programming for Digital Humanities** — Arts & Humanities
 
 ### King's College London <span class="venue">2018–2022</span>
 
-- **Theorising Big Data** — Digital Humanities
-- **Big Data in Practice** — Digital Humanities
-- **Human-Computer Interaction Design** — Digital Humanities
+- **Theorising Big Data** — Department of Digital Humanities
+- **Big Data in Practice** — Department of Digital Humanities
+- **Crowds and Clouds** — Department of Digital Humanities
 
 ### International
 
 - **Digital Hermeneutics** — Shandong University, China
 - **Hermeneutics in the Information Age** — Shanghai International Studies
 - **Knowledge Culture** — University of Copenhagen
+- **Reading & Writing in Online Culture** – Tilburg University
 
 ## D-Lab Workshops
 
@@ -57,7 +58,8 @@ Browser-based tools for teaching computing concepts: [compss211.github.io/demos]
 
 ## Invited Talks
 
-- **Prompt Engineering for Legal Issues** — UC Berkeley, 2025
+- **Demystifying AI** – Goldman School, UC Berkeley, 2026
+- **Prompt Engineering for Legal Issues** — Global Rights Innovation Lab Clinic, UC Berkeley, 2025
 - **Digital Hermeneutics** — Keynote, Tsinghua University, 2020
-- **Teaching Bias through Word Embeddings** — UC Berkeley, 2022
+- **Teaching Bias through Word Embeddings** — D-Lab, UC Berkeley, 2022
 - **Genders: Calling Out AI** — Science Gallery London
