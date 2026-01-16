@@ -20,11 +20,12 @@ I develop and teach computational social science courses and workshops, focusing
 - **Data Science for Social Justice** - Arts & Humanities
 
 ### King's College London (2018-2022)
+Department of Digital Humanities
 
-- Theorising Big Data
-- Big Data in Practice
-- Understanding Human-Computer Interaction Design
-- Crowds and Clouds: Digital Ecosystems
+- **Theorising Big Data**
+- **Big Data in Practice**
+- **Understanding Human-Computer Interaction Design**
+- **Crowds and Clouds: Digital Ecosystems**
 
 ### International
 

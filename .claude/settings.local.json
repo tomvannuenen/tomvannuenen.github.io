@@ -9,7 +9,8 @@
       "Bash(git commit -m \"$(cat <<''EOF''\nAdd multi-page site structure with photo and contact links\n\n- Add _config.yml with jekyll-theme-minimal\n- Restructure index.md with photo, contact links, and navigation\n- Add research.md with publications organized by topic\n- Add teaching.md with D-Lab workshops and interactive demos\n- Add profile photo to assets/images/\n\n🤖 Generated with [Claude Code](https://claude.com/claude-code)\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n)\")",
       "Bash(git push:*)",
       "Bash(git add:*)",
-      "Bash(git commit:*)"
+      "Bash(git commit:*)",
+      "Bash(git rm:*)"
     ]
   }
 }

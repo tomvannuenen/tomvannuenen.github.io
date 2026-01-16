@@ -13,7 +13,7 @@ I am a researcher and lecturer in the computational humanities. I apply mixed me
 
 At UC Berkeley, I lead the curriculum of 30+ workshops in AI, computational social sciences, and Digital Humanities. I also teach in the new [Master of Computational Social Science](https://macss.berkeley.edu/) program. I have taught courses and workshops across three continents, including visiting positions at universities in Shanghai, Copenhagen, and Sydney.
 
-My research investigates norms in language models and perceptions of AI systems. Recent work on LLM value alignment and moral reasoning has been published at NeurIPS and ACM FAccT. I also serve as an editor for [Tourist Studies](https://journals.sagepub.com/home/tou).
+My research investigates norms in language models and perceptions of AI systems. Recent work on LLM value alignment and moral reasoning has been published at NeurIPS and ACM FAccT.
 
 ## Books
 

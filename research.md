@@ -18,8 +18,6 @@ My research spans AI ethics, norms in language models, cultural analytics, and d
 - [Bias and Discrimination in AI: a cross-disciplinary perspective](https://arxiv.org/abs/2008.07309) (IEEE Technology and Society)
 - [Transparency for Whom? Assessing Discriminatory Artificial Intelligence](https://ieeexplore.ieee.org/abstract/document/9237325/)
 
-**Interactive Tool**: [Discovering and Interpreting Conceptual Biases](https://xfold.github.io/WEB-DiscoveringAndInterpretingConceptualBiases/) - Explore language biases in AI systems
-
 ---
 
 ## Digital Hermeneutics & Cultural Analytics
@@ -65,12 +63,6 @@ UK National Research Centre on Privacy, Harm Reduction and Adversarial Influence
 Led a project investigating intersectional discrimination in automated systems, developing a novel conceptual framework based on interviews and survey data.
 
 [Project Website](http://rephrain.ac.uk)
-
----
-
-## Editorial Work
-
-**Editor**, [Tourist Studies](https://journals.sagepub.com/home/tou) (2020-present)
 
 ---
 
