@@ -1,0 +1,16 @@
+title: Tom van Nuenen
+description: Researcher in cultural analytics and accountable data science at UC Berkeley
+author: Tom van Nuenen
+
+# Theme - using minimal for clean academic look
+theme: jekyll-theme-minimal
+
+# Social links
+github_username: tomvannuenen
+linkedin_username: tomvannuenen
+
+# Google Analytics (optional - add your tracking ID)
+# google_analytics: UA-XXXXXXXX-X
+
+# Build settings
+markdown: kramdown
