@@ -3,32 +3,47 @@ layout: default
 title: Home
 ---
 
-I am a researcher and lecturer in the computational humanities. I apply mixed methods to investigate social, ethical, and development questions related to ML, AI, and algorithmic culture. I am passionate about the impact of datafication on society, particularly in the context of norms and practices in everyday life.
+I study how digital systems shape culture—from the norms embedded in language models to the authenticity performed on travel platforms to the worlds constructed in video games.
 
-At UC Berkeley, I lead the curriculum of 30+ workshops in AI, computational social sciences, and Digital Humanities at the [Social Sciences Data Lab (D-Lab)](https://dlab.berkeley.edu/). I also teach in the new [Master of Computational Social Science](https://macss.berkeley.edu/) program. I have taught courses and workshops across three continents, including visiting positions at universities in Shanghai, Copenhagen, and Sydney.
+At Berkeley, I lead [D-Lab's](https://dlab.berkeley.edu/) curriculum of 30+ workshops in computational methods and teach in the [Master of Computational Social Science](https://macss.berkeley.edu/) program. Recent work on LLM value alignment has appeared at NeurIPS and ACM FAccT.
 
-My research investigates norms in language models and perceptions of AI systems. Recent work on LLM value alignment and moral reasoning has been published at NeurIPS and ACM FAccT.
+## Research
 
-<div class="keywords">
-<span class="keyword">AI Ethics</span>
-<span class="keyword">LLMs</span>
-<span class="keyword">Video Games</span>
-<span class="keyword">Tourism</span>
-<span class="keyword">NLP</span>
-<span class="keyword">Digital Humanities</span>
-</div>
+<p class="interests">
+<span>AI ethics & norms</span>
+<span>Language models</span>
+<span>Video games</span>
+<span>Digital tourism</span>
+<span>Cultural analytics</span>
+</p>
 
 ## Books
 
 <div class="books">
 <div class="book">
-<span class="book-title">Traveling Through Video Games</span>
-<span class="book-meta">Routledge, 2023</span>
-<p style="margin-top: 10px; font-size: 0.9em;">On the influence of tourism's promotional language on video game design</p>
+<span class="book-year">2023</span>
+<div>
+<div class="book-title">Traveling Through Video Games</div>
+<div class="book-desc">Routledge — Tourism's language in game design</div>
+</div>
 </div>
 <div class="book">
-<span class="book-title">Scripted Journeys: Authenticity in Hypermediated Tourism</span>
-<span class="book-meta">De Gruyter, 2021</span>
-<p style="margin-top: 10px; font-size: 0.9em;">On digital technology and the construction of authenticity in travel</p>
+<span class="book-year">2021</span>
+<div>
+<div class="book-title">Scripted Journeys</div>
+<div class="book-desc">De Gruyter — Authenticity in hypermediated tourism</div>
 </div>
+</div>
+</div>
+
+<div class="flourish">· · ·</div>
+
+## Elsewhere
+
+<div class="links">
+<a href="mailto:tomvannuenen@berkeley.edu">Email</a>
+<a href="https://scholar.google.com/citations?hl=en&user=Bsq-uDoAAAAJ">Google Scholar</a>
+<a href="https://github.com/tomvannuenen">GitHub</a>
+<a href="https://orcid.org/0000-0002-8357-2316">ORCID</a>
+<a href="https://www.linkedin.com/in/tomvannuenen/">LinkedIn</a>
 </div>
