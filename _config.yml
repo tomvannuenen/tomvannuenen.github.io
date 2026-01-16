@@ -2,15 +2,5 @@ title: Tom van Nuenen
 description: Project Scientist & Lecturer at UC Berkeley's Social Science Data Lab
 author: Tom van Nuenen
 
-# Theme - using minimal for clean academic look
-theme: jekyll-theme-minimal
-
-# Social links
-github_username: tomvannuenen
-linkedin_username: tomvannuenen
-
-# Google Analytics (optional - add your tracking ID)
-# google_analytics: UA-XXXXXXXX-X
-
 # Build settings
 markdown: kramdown

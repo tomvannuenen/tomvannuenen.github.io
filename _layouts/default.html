@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
+    <meta name="description" content="{{ site.description }}">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Arial', 'Helvetica Neue', sans-serif;
+            background: #fff;
+            color: #000;
+            line-height: 1.5;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        header {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 40px;
+            padding: 60px 0;
+            border-bottom: 4px solid #000;
+        }
+
+        .header-left {
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-end;
+        }
+
+        h1.site-title {
+            font-size: 4em;
+            font-weight: 900;
+            line-height: 0.9;
+            text-transform: uppercase;
+            letter-spacing: -0.03em;
+        }
+
+        .subtitle {
+            font-size: 1em;
+            margin-top: 20px;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+        }
+
+        .header-photo {
+            width: 100%;
+            max-width: 300px;
+            aspect-ratio: 1;
+            object-fit: cover;
+        }
+
+        nav {
+            display: flex;
+            border-bottom: 4px solid #000;
+        }
+
+        nav a {
+            flex: 1;
+            padding: 20px;
+            text-align: center;
+            color: #000;
+            text-decoration: none;
+            text-transform: uppercase;
+            font-weight: bold;
+            letter-spacing: 0.1em;
+            border-right: 4px solid #000;
+            transition: all 0.1s;
+        }
+
+        nav a:last-child {
+            border-right: none;
+        }
+
+        nav a:hover, nav a.active {
+            background: #000;
+            color: #fff;
+        }
+
+        .links {
+            display: flex;
+            flex-wrap: wrap;
+            border-bottom: 4px solid #000;
+        }
+
+        .links a {
+            padding: 15px 20px;
+            color: #000;
+            text-decoration: none;
+            border-right: 2px solid #000;
+            font-size: 0.85em;
+        }
+
+        .links a:hover {
+            background: #ff0;
+        }
+
+        main {
+            padding: 40px 0;
+        }
+
+        h1, h2, h3 {
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        h2 {
+            font-size: 0.9em;
+            font-weight: bold;
+            letter-spacing: 0.15em;
+            margin: 40px 0 20px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid #000;
+        }
+
+        h3 {
+            font-size: 0.85em;
+            margin: 30px 0 15px;
+        }
+
+        p {
+            margin-bottom: 1em;
+            font-size: 1.05em;
+            max-width: 700px;
+        }
+
+        ul {
+            list-style: none;
+            margin-bottom: 1em;
+        }
+
+        li {
+            padding: 10px 0;
+            border-bottom: 1px solid #ddd;
+        }
+
+        li:last-child {
+            border-bottom: none;
+        }
+
+        a {
+            color: #000;
+            text-decoration: underline;
+        }
+
+        a:hover {
+            background: #ff0;
+        }
+
+        .keywords {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            margin: 30px 0;
+        }
+
+        .keyword {
+            background: #000;
+            color: #fff;
+            padding: 5px 12px;
+            font-size: 0.75em;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        .books {
+            background: #f5f5f5;
+            padding: 30px;
+            margin: 20px 0;
+        }
+
+        .book {
+            margin-bottom: 25px;
+            padding-bottom: 25px;
+            border-bottom: 1px solid #ccc;
+        }
+
+        .book:last-child {
+            border-bottom: none;
+            margin-bottom: 0;
+            padding-bottom: 0;
+        }
+
+        .book-title {
+            font-weight: bold;
+            font-size: 1.1em;
+        }
+
+        .book-meta {
+            font-size: 0.85em;
+            color: #666;
+            margin-top: 5px;
+        }
+
+        footer {
+            border-top: 4px solid #000;
+            padding: 20px 0;
+            font-size: 0.85em;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+        }
+
+        /* Page-specific: two column layout for home */
+        .two-column {
+            display: grid;
+            grid-template-columns: 2fr 1fr;
+            gap: 40px;
+        }
+
+        .sidebar {
+            background: #f5f5f5;
+            padding: 30px;
+        }
+
+        /* Research page styling */
+        .publication-list li {
+            padding: 15px 0;
+        }
+
+        .venue-tag {
+            background: #000;
+            color: #fff;
+            padding: 2px 8px;
+            font-size: 0.7em;
+            text-transform: uppercase;
+            margin-left: 8px;
+        }
+
+        /* Teaching page styling */
+        .course-list li strong {
+            display: block;
+            margin-bottom: 3px;
+        }
+
+        @media (max-width: 768px) {
+            header {
+                grid-template-columns: 1fr;
+            }
+            .two-column {
+                grid-template-columns: 1fr;
+            }
+            h1.site-title {
+                font-size: 2.5em;
+            }
+            nav {
+                flex-wrap: wrap;
+            }
+            nav a {
+                flex: 1 1 50%;
+                border-bottom: 4px solid #000;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="header-left">
+                <h1 class="site-title">{{ site.title }}</h1>
+                <p class="subtitle">{{ site.description }}</p>
+            </div>
+            <div class="header-right">
+                <img src="/assets/images/IMG_9676_sm.jpg" alt="{{ site.title }}" class="header-photo">
+            </div>
+        </header>
+
+        <nav>
+            <a href="/" {% if page.url == "/" %}class="active"{% endif %}>Home</a>
+            <a href="/research" {% if page.url == "/research.html" or page.url == "/research" %}class="active"{% endif %}>Research</a>
+            <a href="/teaching" {% if page.url == "/teaching.html" or page.url == "/teaching" %}class="active"{% endif %}>Teaching</a>
+        </nav>
+
+        <div class="links">
+            <a href="mailto:tomvannuenen@berkeley.edu">Email</a>
+            <a href="https://scholar.google.com/citations?hl=en&user=Bsq-uDoAAAAJ">Google Scholar</a>
+            <a href="https://orcid.org/0000-0002-8357-2316">ORCID</a>
+            <a href="https://github.com/tomvannuenen">GitHub</a>
+            <a href="https://www.linkedin.com/in/tomvannuenen/">LinkedIn</a>
+        </div>
+
+        <main>
+            {{ content }}
+        </main>
+
+        <footer>
+            University of California, Berkeley
+        </footer>
+    </div>
+</body>
+</html>

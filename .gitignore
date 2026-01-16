@@ -1,0 +1,15 @@
+# Local mockups - don't publish
+mockups/
+
+# Jekyll build
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Local files
+CV.txt
+*.docx
+
+# Mac
+.DS_Store
