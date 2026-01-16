@@ -3,14 +3,14 @@ layout: default
 title: Home
 ---
 
-I study how digital systems shape culture—from the norms embedded in language models to the authenticity performed on travel platforms to the worlds constructed in video games.
+I study how algorithmic systems shape what counts as normal. The mechanisms vary. I've [done work](research) on values embedded in language models, authenticity performed on travel platforms, worlds constructed in video games, and more. Recent work on LLM value alignment has appeared at NeurIPS and ACM FAccT.
 
-At Berkeley, I lead [D-Lab's](https://dlab.berkeley.edu/) curriculum of 30+ workshops in computational methods and teach in the [Master of Computational Social Science](https://macss.berkeley.edu/) program. Recent work on LLM value alignment has appeared at NeurIPS and ACM FAccT.
+I care a lot about how to communicate and teach data and AI. At Berkeley, I lead [D-Lab's](https://dlab.berkeley.edu/) curriculum of 30+ workshops in computational methods and teach in the [Master of Computational Social Science](https://macss.berkeley.edu/) program. 
 
 ## Research
 
 <p class="interests">
-<span>AI ethics & norms</span>
+<span>AI norms and biases</span>
 <span>Language models</span>
 <span>Video games</span>
 <span>Digital tourism</span>
