@@ -5,7 +5,7 @@ title: Home
 
 I study how algorithmic systems shape what counts as normal. The mechanisms vary. I've [done work](research) on values embedded in language models, authenticity performed on travel platforms, worlds constructed in video games, and more. Recent work on LLM value alignment has appeared at NeurIPS and ACM FAccT.
 
-I care a lot about how to communicate and teach data and AI. At Berkeley, I lead [D-Lab's](https://dlab.berkeley.edu/) curriculum of 30+ workshops in computational methods and teach in the [Master of Computational Social Science](https://macss.berkeley.edu/) program. 
+I care a lot about teaching data and AI. At Berkeley, I lead [D-Lab's](https://dlab.berkeley.edu/) curriculum of 30+ workshops in computational methods and teach in the [Master of Computational Social Science](https://macss.berkeley.edu/) program. 
 
 ## Research
 
