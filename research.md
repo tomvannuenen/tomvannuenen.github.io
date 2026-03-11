@@ -8,6 +8,7 @@ My research spans AI ethics, norms in language models, cultural analytics, and d
 ## Norms and Biases in AI
 
 - [Conformity, Inertia, and Value Alignment in Multi-Turn LLM Deliberation](https://arxiv.org/abs/2510.10002) <span class="venue">NeurIPS 2025</span>
+- [The Fragility of Moral Judgment in Large Language Models](https://arxiv.org/abs/2603.05651) <span class="venue">ACM FAccT 2026</span>
 - [Normative Evaluation of Large Language Models with Everyday Moral Dilemmas](https://dl.acm.org/doi/10.1145/3715275.3732044) <span class="venue">ACM FAccT 2025</span>
 - [Intersectional Experiences of Unfair Treatment Caused by Automated Computational Systems](https://doi.org/10.1145/3555546) <span class="venue">ACM CSCW 2022</span>
 - [Discovering and Interpreting Biased Concepts in Online Communities](https://arxiv.org/abs/2010.14448) <span class="venue">IEEE TKDE</span>

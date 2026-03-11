@@ -29,7 +29,7 @@ I develop and teach courses and workshops in Digital Humanities and computationa
 
 ## D-Lab Workshops
 
-At [D-Lab](https://dlab.berkeley.edu/), I lead the curriculum of 30+ open-source workshops. All materials freely available at [github.com/dlab-berkeley](https://github.com/dlab-berkeley).
+At [D-Lab](https://dlab.berkeley.edu/), I lead the curriculum of 40+ open-source workshops. All materials freely available at [github.com/dlab-berkeley](https://github.com/dlab-berkeley).
 
 ### AI & Machine Learning
 - [LLMs for Exploratory Research](https://github.com/dlab-berkeley/LLMs-for-Exploratory-Research)
