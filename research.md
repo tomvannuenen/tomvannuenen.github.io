@@ -7,6 +7,7 @@ I use computational methods — natural language processing, large language mode
 
 ## Norms and Biases in AI
 
+- [Interaction Protocol Shapes Moral Judgment in Multi-Agent Debate](https://arxiv.org/abs/2510.10002) <span class="venue">COLM 2026</span>
 - The Fabricated Front: GenAI and the Social Organization of Workplace Legibility <span class="venue">PCAIDE 2026 (forthcoming)</span>
 - [Conformity, Inertia, and Value Alignment in Multi-Turn LLM Deliberation](https://arxiv.org/abs/2510.10002) <span class="venue">NeurIPS 2025</span>
 - [The Fragility of Moral Judgment in Large Language Models](https://arxiv.org/abs/2603.05651) <span class="venue">ACM FAccT 2026</span>
