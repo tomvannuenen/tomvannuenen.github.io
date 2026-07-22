@@ -3,10 +3,11 @@ layout: default
 title: Research
 ---
 
-My research spans AI ethics, norms in language models, cultural analytics, and digital tourism. I use computational methods to investigate how technology shapes society and culture.
+I use computational methods — natural language processing, large language models, and cultural analytics — to study inequality, bias, and norms in sociotechnical systems. My work spans AI ethics and value alignment, digital hermeneutics, and the cultural analysis of games and tourism.
 
 ## Norms and Biases in AI
 
+- The Fabricated Front: GenAI and the Social Organization of Workplace Legibility <span class="venue">PCAIDE 2026 (forthcoming)</span>
 - [Conformity, Inertia, and Value Alignment in Multi-Turn LLM Deliberation](https://arxiv.org/abs/2510.10002) <span class="venue">NeurIPS 2025</span>
 - [The Fragility of Moral Judgment in Large Language Models](https://arxiv.org/abs/2603.05651) <span class="venue">ACM FAccT 2026</span>
 - [Normative Evaluation of Large Language Models with Everyday Moral Dilemmas](https://dl.acm.org/doi/10.1145/3715275.3732044) <span class="venue">ACM FAccT 2025</span>

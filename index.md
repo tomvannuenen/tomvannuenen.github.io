@@ -3,9 +3,9 @@ layout: default
 title: Home
 ---
 
-I study how algorithmic systems shape culture, and what counts as normal. I've [done work](research) on values embedded in language models, authenticity performed on travel platforms, worlds constructed in video games, and more. Recent work on LLM value alignment has appeared at NeurIPS 2025 and ACM FAccT 2025 and 2026.
+I'm a computational social scientist studying how algorithmic systems shape culture, norms, and inequality. Using [methods](#methods) like natural language processing, large language models, and cultural analytics, I've [done work](research) on value alignment in language models, discrimination in automated systems, authenticity on travel platforms, and worlds built in video games. Recent work on LLM value alignment and moral judgment has appeared at NeurIPS 2025 and ACM FAccT 2025 and 2026.
 
-I care a lot about [teaching](teaching) data and AI. At Berkeley, I lead curricula at [D-Lab](https://dlab.berkeley.edu/) ([40+ workshops](https://dlab-berkeley.github.io/dlab-workshops/) in computational methods) and the [Digital Humanities Summer Minor](https://summerdigitalhumanities.berkeley.edu/), and teach in the [Master of Computational Social Science](https://macss.berkeley.edu/).
+At Berkeley I coordinate the [Master of Computational Social Science](https://macss.berkeley.edu/) and teach [computational methods](teaching) to social scientists — leading curricula at [D-Lab](https://dlab.berkeley.edu/) ([40+ workshops](https://dlab-berkeley.github.io/dlab-workshops/)) and the [Digital Humanities Summer Minor](https://summerdigitalhumanities.berkeley.edu/), and previously teaching Computational Social Sciences in the Department of Sociology.
 
 ## Research
 
@@ -15,6 +15,20 @@ I care a lot about [teaching](teaching) data and AI. At Berkeley, I lead curricu
 <span>Video games</span>
 <span>Digital tourism</span>
 <span>Cultural analytics</span>
+</p>
+
+## Methods
+
+<p class="interests">
+<span>Python</span>
+<span>R</span>
+<span>SQL</span>
+<span>NLP</span>
+<span>Large language models</span>
+<span>Word embeddings</span>
+<span>Geospatial analysis</span>
+<span>Data visualization</span>
+<span>Bash / Git</span>
 </p>
 
 ## Books

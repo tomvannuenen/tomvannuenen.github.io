@@ -9,9 +9,9 @@ I develop and teach courses and workshops in Digital Humanities and computationa
 
 ### UC Berkeley
 
-- **Advanced Computing** — Master of Computational Social Science
-- **Computational Social Sciences** — Department of Sociology
-- **Digital Hermeneutics** — Arts & Humanities
+- **Advanced Computing** (COMPSS 211) — Master of Computational Social Science <span class="venue">2025–present</span>
+- **Computational Social Sciences** (SOC 5) — Department of Sociology <span class="venue">2022–2023</span>
+- **Digital Hermeneutics** (DIGHUM 160) — Arts & Humanities <span class="venue">2018–present</span>
 - **Python Programming for Digital Humanities** — Arts & Humanities
 
 ### King's College London <span class="venue">2018–2022</span>
@@ -29,7 +29,7 @@ I develop and teach courses and workshops in Digital Humanities and computationa
 
 ## D-Lab Workshops
 
-At [D-Lab](https://dlab.berkeley.edu/), I lead the curriculum of 40+ open-source workshops. All materials freely available at [github.com/dlab-berkeley](https://github.com/dlab-berkeley).
+At [D-Lab](https://dlab.berkeley.edu/), I lead the curriculum of 40+ open-source workshops, training graduate students and researchers across the social sciences in computational methods. All materials freely available at [github.com/dlab-berkeley](https://github.com/dlab-berkeley).
 
 ### AI & Machine Learning
 - [LLMs for Exploratory Research](https://github.com/dlab-berkeley/LLMs-for-Exploratory-Research)
