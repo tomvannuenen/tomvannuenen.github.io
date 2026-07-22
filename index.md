@@ -33,6 +33,8 @@ At Berkeley I coordinate the [Master of Computational Social Science](https://ma
 
 ## Books
 
+_My two books examine how digital media reshape travel and play, themes that carry into my current work on AI._
+
 <div class="books">
 <div class="book">
 <span class="book-year">2023</span>
