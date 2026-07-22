@@ -3,33 +3,21 @@ layout: default
 title: Home
 ---
 
-I'm a computational social scientist studying how algorithmic systems shape culture, norms, and inequality — and how digital platforms mediate the way people move through, represent, and experience places. Using [methods](#methods) like natural language processing, large language models, and cultural analytics, I've [done work](research) on value alignment in language models, discrimination in automated systems, authenticity and locality on travel platforms, and the designed worlds of video games. Recent work on LLM value alignment and moral judgment has appeared at NeurIPS 2025 and ACM FAccT 2025 and 2026.
+I study how algorithmic platforms shape the ways people understand culture and experience place. Using computational methods, my work investigates how digital systems organize visibility, mobility, representation, and inequality in everyday life.
 
-At Berkeley I coordinate the [Master of Computational Social Science](https://macss.berkeley.edu/) and teach [computational methods](teaching) to social scientists — leading curricula at [D-Lab](https://dlab.berkeley.edu/) ([40+ workshops](https://dlab-berkeley.github.io/dlab-workshops/)) and the [Digital Humanities Summer Minor](https://summerdigitalhumanities.berkeley.edu/), and previously teaching Computational Social Sciences in the Department of Sociology.
+My [research](research) applies this perspective across language models, automated decision systems, travel platforms, and video games. Recent work has appeared at ACM FAccT 2025 and 2026, COLM 2026, and NeurIPS 2025.
+
+At Berkeley I coordinate the [Master of Computational Social Science](https://macss.berkeley.edu/) and teach [computational methods](teaching). I also lead curriculum design at [D-Lab](https://dlab.berkeley.edu/) and the [Digital Humanities Summer Minor](https://summerdigitalhumanities.berkeley.edu/).
 
 ## Research
 
 <p class="interests">
 <span>AI norms and biases</span>
 <span>Language models</span>
-<span>Video games</span>
 <span>Tourism & mobilities</span>
 <span>Platforms & place</span>
 <span>Cultural analytics</span>
-</p>
-
-## Methods
-
-<p class="interests">
-<span>Python</span>
-<span>R</span>
-<span>SQL</span>
-<span>NLP</span>
-<span>Large language models</span>
-<span>Geospatial analysis</span>
-<span>Word embeddings</span>
-<span>Data visualization</span>
-<span>Bash / Git</span>
+<span>Video games</span>
 </p>
 
 ## Books
