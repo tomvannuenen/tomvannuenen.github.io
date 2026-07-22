@@ -9,7 +9,6 @@ I use computational methods — natural language processing, large language mode
 
 - [Interaction Protocol Shapes Moral Judgment in Multi-Agent Debate](https://arxiv.org/abs/2510.10002) <span class="venue">COLM 2026</span>
 - The Fabricated Front: GenAI and the Social Organization of Workplace Legibility <span class="venue">PCAIDE 2026 (forthcoming)</span>
-- [Conformity, Inertia, and Value Alignment in Multi-Turn LLM Deliberation](https://arxiv.org/abs/2510.10002) <span class="venue">NeurIPS 2025</span>
 - [The Fragility of Moral Judgment in Large Language Models](https://arxiv.org/abs/2603.05651) <span class="venue">ACM FAccT 2026</span>
 - [Normative Evaluation of Large Language Models with Everyday Moral Dilemmas](https://dl.acm.org/doi/10.1145/3715275.3732044) <span class="venue">ACM FAccT 2025</span>
 - [Intersectional Experiences of Unfair Treatment Caused by Automated Computational Systems](https://doi.org/10.1145/3555546) <span class="venue">ACM CSCW 2022</span>

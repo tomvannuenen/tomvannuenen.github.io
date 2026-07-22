@@ -58,6 +58,7 @@ Browser-based tools for teaching computing concepts: [compss211.github.io/demos]
 
 ## Invited Talks
 
+- **The Cost of Fluency: Generative AI, Advice, and Everyday Judgment** — Faculty of Arts, Chinese University of Hong Kong, 2026
 - **Demystifying AI** – Goldman School, UC Berkeley, 2026
 - **Prompt Engineering for Legal Issues** — Global Rights Innovation Lab Clinic, UC Berkeley, 2025
 - **Digital Hermeneutics** — Keynote, Tsinghua University, 2020
