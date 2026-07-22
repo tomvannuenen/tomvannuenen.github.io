@@ -13,7 +13,7 @@ I have developed and taught courses in Digital Humanities, Culture Studies, and 
 - **Advanced Computing** (COMPSS 211) — Master of Computational Social Science <span class="venue">2025–present</span>
 - **Computational Social Sciences** (SOC 5) — Department of Sociology <span class="venue">2022–2023</span>
 - **Digital Hermeneutics** (DIGHUM 160) — Arts & Humanities <span class="venue">2018–present</span>
-- **Python Programming for Digital Humanities** — Arts & Humanities
+- **Python Programming for Digital Humanities** (DIGHUM 101) — Arts & Humanities
 
 ### King's College London <span class="venue">2018–2022</span>
 
