@@ -48,13 +48,13 @@ At [D-Lab](https://dlab.berkeley.edu/), I lead the curriculum of 40+ open-source
 
 ## Interactive Demos
 
-Browser-based tools for teaching computing concepts: [compss211.github.io/demos](https://compss211.github.io/demos)
+Browser-based tools I built to teach technical concepts to researchers without a computing background. Freely available at [compss211.github.io/demos](https://compss211.github.io/demos).
 
-- Git & GitHub — Version control workflows
+- Transformer Attention — Query, Key, and Value, visualized
+- Word Embeddings — how computers learn meaning
+- Web Scraping — data extraction with Python
 - Web APIs — REST and authentication
-- Web Scraping — Data extraction with Python
-- Word Embeddings — How computers learn meaning
-- Transformer Attention — Query, Key, Value in AI
+- Git & GitHub — version control workflows
 
 ## Invited Talks
 
