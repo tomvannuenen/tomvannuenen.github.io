@@ -58,6 +58,7 @@ _My two books examine how digital media reshape the way people move through and 
 ## Elsewhere
 
 <div class="links">
+<a href="/assets/CV_Tom_van_Nuenen.pdf">CV (PDF)</a>
 <a href="mailto:tomvannuenen@berkeley.edu">Email</a>
 <a href="https://scholar.google.com/citations?hl=en&user=Bsq-uDoAAAAJ">Google Scholar</a>
 <a href="https://github.com/tomvannuenen">GitHub</a>
