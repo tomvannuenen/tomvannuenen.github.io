@@ -41,6 +41,10 @@ At [D-Lab](https://dlab.berkeley.edu/), I lead the curriculum of 40+ open-source
 - [Python Data Wrangling](https://github.com/dlab-berkeley/Python-Data-Wrangling)
 - [Python Data Visualization](https://github.com/dlab-berkeley/Python-Data-Visualization)
 
+### Geospatial
+- [Python Geospatial Fundamentals](https://github.com/dlab-berkeley/Python-Geospatial-Fundamentals)
+- [R Geospatial Fundamentals](https://github.com/dlab-berkeley/R-Geospatial-Fundamentals)
+
 ### R & Tools
 - [R Fundamentals](https://github.com/dlab-berkeley/R-Fundamentals)
 - [SQL Fundamentals](https://github.com/dlab-berkeley/SQL-Fundamentals)

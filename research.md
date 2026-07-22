@@ -3,7 +3,7 @@ layout: default
 title: Research
 ---
 
-I use computational methods — natural language processing, large language models, and cultural analytics — to study inequality, bias, and norms in sociotechnical systems. My work spans AI ethics and value alignment, digital hermeneutics, and the cultural analysis of games and tourism.
+I use computational methods — natural language processing, large language models, and cultural analytics — to study inequality, bias, and norms in sociotechnical systems. My work spans AI ethics and value alignment, digital hermeneutics, and the cultural analysis of games and tourism — with a running interest in how digital systems mediate place, locality, and mobility.
 
 ## Norms and Biases in AI
 
@@ -26,18 +26,20 @@ _Reading large text collections both closely and at scale._
 - [Predictively policed: The Dutch CAS case and its forerunners](https://manchesteruniversitypress.co.uk/9781526164209/) <span class="venue">Manchester UP</span>
 - Travel in the Digital Age <span class="venue">Cambridge History of Travel Writing</span>
 
-## Video Games
+## Video Games & Virtual Worlds
 
-_Movement, play, and meaning in games._
+_Space, movement, and meaning in designed worlds._
 
 - [Traveling Through Video Games](https://www.routledge.com/Traveling-through-Video-Games/vanNuenen/p/book/9781032519500) <span class="venue">Routledge 2023</span>
+- Video Games as Travel Writing <span class="venue">Routledge 2022</span>
 - [Ludonarrative Hermeneutics: A Way Out and the Narrative Paradox](https://link.springer.com/chapter/10.1007/978-3-030-04028-4_7) <span class="venue">ICIDS 2018</span>
+- [Touring the Animus: Assassin's Creed and Ludotopical Movement](https://journals.sfu.ca/loading/index.php/loading/article/view/195) <span class="venue">Loading…</span>
 - [Playing the Panopticon: Procedural Punishment in Dark Souls](https://journals.sagepub.com/doi/10.1177/1555412015570967) <span class="venue">Games & Culture</span>
 - [Procedural (E)motion: Journey as Emerging Pilgrimage](https://onlinelibrary.wiley.com/doi/10.1111/jpcu.12417) <span class="venue">J Popular Culture</span>
 
-## Tourism
+## Tourism, Platforms & Place
 
-_Authenticity and self-presentation in digital travel._
+_How platforms mediate locality, authenticity, and the experience of place._
 
 - [Scripted Journeys: Authenticity in Hypermediated Tourism](https://www.degruyter.com/document/doi/10.1515/9783110700497/html?lang=en) <span class="venue">De Gruyter 2021</span>
 - [Advancements in technology and digital media in tourism](https://journals.sagepub.com/doi/full/10.1177/1468797621990410) <span class="venue">Tourist Studies</span>
