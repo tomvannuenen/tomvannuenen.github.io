@@ -3,7 +3,8 @@ layout: default
 title: Teaching
 ---
 
-I develop and teach courses and workshops in Digital Humanities and computational social science, making data science accessible to researchers from non-technical backgrounds. I've taught across three continents: at UC Berkeley (USA), King's College London (UK), Tilburg University (NL), and universities in China, Denmark, and Australia.
+I have developed and taught courses in Digital Humanities, Culture Studies, and Computational Social Science. I've taught across three continents: at UC Berkeley (USA), King's College London (UK), Tilburg University (NL), and universities in China, Denmark, and Australia. My teaching spans text, machine-learning, and spatial methods; I'm especially interested in developing courses on platform data, mobility, and the computational analysis of place.
+
 
 ## Courses
 
