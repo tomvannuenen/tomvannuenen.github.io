@@ -3,7 +3,7 @@ layout: default
 title: Research
 ---
 
-I use computational methods — natural language processing, large language models, and cultural analytics — to study inequality, bias, and norms in sociotechnical systems. My work spans AI ethics and value alignment, digital hermeneutics, and the cultural analysis of games and tourism — with a running interest in how digital systems mediate place, locality, and mobility.
+My research examines how sociotechnical systems encode cultural meaning. I connect work on AI ethics and value alignment with digital hermeneutics and the cultural analysis of games, tourism, and platforms, with a sustained interest in how digital systems organize social values, represent places, and structure mobility.
 
 ## Norms and Biases in AI
 
